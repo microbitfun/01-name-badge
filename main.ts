@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showString("Microbitfun")
+    basic.showString("MicrobitFun")
 })
 input.onButtonPressed(Button.B, function () {
     basic.showNumber(8)
