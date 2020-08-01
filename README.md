@@ -1,7 +1,7 @@
 
 > Open this page at [https://microbitfun.github.io/01-name-badge/](https://microbitfun.github.io/01-name-badge/)
 
-## Use as Extension
+## Use as Extension - remove this
 
 This repository can be added as an **extension** in MakeCode.
 
