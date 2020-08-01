@@ -1,5 +1,5 @@
 
-> Open this page at [https://microbitfun.github.io/01-name-badge/](https://microbitfun.github.io/01-name-badge/)
+> Open this page at [https://microbitfun.github.io/name-badge/](https://microbitfun.github.io/name-badge/)
 
 ## Use as Extension - remove this
 
